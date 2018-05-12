@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26445
 description: A little boy, who believes that fairies and goblins are strictly creatures
   of fantasy, gets taken on a "Believing Voyage" by a hobgoblin.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25031#Davy-and-The-GoblinWhat-Followed-Reading-Alice-s-Adventures-in-Wonderland-
 gutenberg_issued: '2008-04-10'
 gutenberg_type: Text
 identifiers:
